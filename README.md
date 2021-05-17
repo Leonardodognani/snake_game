@@ -9,3 +9,5 @@
 * pretendo estilizar e melhorar a qualidade com o tempo.
 
 🐺 🐺 🐺
+
+![snake](https://user-images.githubusercontent.com/82122343/118562437-0f297880-b743-11eb-9881-d7a4fc1bbd60.png)
